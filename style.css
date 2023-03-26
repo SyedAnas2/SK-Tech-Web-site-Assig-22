@@ -1,0 +1,185 @@
+.body{
+    width: (max-width 480px);
+    height: 3000px;
+    background: #f6bcbc;
+}
+.header{
+    text-align: center;
+    background: #f78484;
+    height: 60px;
+}
+.logo{
+    width: 20%;
+    height: 270px;
+}
+.navebar ul{
+    font-style: italic;
+    display: inline;
+    display: flex;
+    margin: top;
+    padding: 53px;
+    border: 2px rgb(213, 89, 89);
+    /* color: rgb(52, 149, 235); */
+    margin-left: 300px;
+}
+ul{
+    /* list-style-type: disc */
+}
+li{
+    /* display: list-item; */
+    /* text-align: -webkit-match-parent; */
+}
+    
+.navebar ul li:hover{
+    height: auto;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 10px;
+    margin: 5px;
+    display: flex;
+    background: #f55d5d;
+    color: #ffffff;
+    font-size: 20px;
+}
+.ad{
+display: flex;
+text-align: center;
+width: 100%;
+}
+.banner img{
+    width:(max-width 480px) ;
+    width: 100%;
+    height: 900px;
+}
+.nav{
+display: flex;
+gap: 50px;
+list-style: none;
+}
+.a{
+    text-align: center;
+    font-style: italic; 
+}
+.box1{
+    width: 450px;
+    height: auto;
+    border: 1px solid black;
+    padding: 5px;
+}
+.box1 img{
+    width: 450px;
+    height: auto;
+    /* border: 1px solid black; */
+}
+.box2{
+    width: 450px;
+    height: auto;
+    border: 1px solid black;
+    padding: 5px;
+}
+.box2 img{
+    width: 450px;
+    height: auto;  
+}
+.box3{
+    width: 450px;
+    height: auto;
+    border: 1px solid black;
+    padding: 5px;
+}
+.box3 img{
+    width: 450px;
+    height: auto;  
+}
+.box4{
+
+    width: 450px;
+    height: auto;
+    border: 1px solid black;
+    padding: 5px;
+}
+.box4 img{
+    width: 450px;
+    height: auto;  
+}
+.allbox{
+    display: flex;
+    gap: 5px;
+    /* background: #53d4f5; */
+}
+.box5{
+    width: 450px;
+    height: auto;
+    border: 1px solid black;
+    padding: 5px;
+}
+.box5 img{
+    width: 450px;
+    height: auto;  
+}
+.box6{
+    width: 450px;
+    height: auto;
+    border: 1px solid black;
+    padding: 5px;
+}
+.box6 img{
+    width: 450px;
+    height: auto;  
+}
+.box7{
+    width: 450px;
+    height: auto;
+    border: 1px solid black;
+    padding: 5px;
+}
+.box7 img{
+    width: 450px;
+    height: auto;  
+}
+.box8{
+    width: 450px;
+    height: auto;
+    border: 1px solid black;
+    padding: 5px;
+}
+.box8 img{
+    width: 450px;
+    height: auto;  
+}
+.addbox{
+    display: flex;
+    gap: 5px;
+    /* background: #53d4f5; */
+}
+.footer img{
+    width: 450px;
+    height: auto;
+    background: #000;
+    border: 2px solid black
+}
+.footer{
+    width: 450px;
+    height: auto;
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+}
+.foot img{
+    width: 450px;
+    height: auto;
+    background: #000;
+    border: 2px solid black
+}
+.foot{
+    width: 450px;
+    height: auto;
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+}
+.SK Tech{
+    display: flex;
+}
+
+
+
